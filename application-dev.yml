@@ -40,7 +40,7 @@ spring:
         login-password: admin
   mail:
     host: smtp.163.com
-    username: 15029361947@163.com
+    username: 15029364947@163.com
     password: 19940528Lll
     port: 465
     protocol: smtp
