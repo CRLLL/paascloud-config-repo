@@ -39,9 +39,9 @@ spring:
         login-username: admin
         login-password: admin
   mail:
-    host: smtp.qq.com
-    username: 1324161618@qq.com
-    password: okclifhqgwyhbaaa
+    host: smtp.163.com
+    username: 15029364947@163.com
+    password: 19940528Lll
     port: 465
     protocol: smtp
     test-connection: false
